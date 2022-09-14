@@ -1,0 +1,23 @@
+{
+  "name": "newsrenato",
+  "version": "1.0.0",
+  "description": "PWA de Notícias",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MelissaBravin/newsRenato.git"
+  },
+  "author": "Melissa Bravin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MelissaBravin/newsRenato/issues"
+  },
+  "homepage": "https://github.com/MelissaBravin/newsRenato#readme",
+  "dependencies": {
+    "serve": "^14.0.1"
+  }
+}

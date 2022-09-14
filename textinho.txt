@@ -1,0 +1,7 @@
+Começo criando os diretorios 
+
+Depois dou um " npm init "
+
+Depois adiciono o " "serve": "serve ."  " dento dos scripts
+
+Depois vou no diretorio e coloco     npm i serve --save
