@@ -1,0 +1,28 @@
+{
+    "name": "NewsdaInfo",
+    "short_name": "NDI",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#bcc3f5",
+    "description": "PWA conectada a api de Notícias",
+    "theme_color": "#7d83ad",
+    "orientation": "portrait-primary",
+    "icons": [
+        {
+            "scr": "./images/pwa-iicon-256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "scr": "./images/pwa-iicon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "scr": "./images/pwa-iicon-256.png",
+            "sizes": "196x196",
+            "type": "image/png",
+            "porpose": "any maskable"
+        }
+    ]
+}
